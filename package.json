@@ -1,0 +1,24 @@
+{
+  "name": "com.foligno.shaders.crt",
+  "version": "0.1.0",
+  "displayName": "CRT Shader",
+  "description": "Fullscreen shader that attempts to emulate a CRT screen effect.",
+  "unity": "2022.3",
+  "unityRelease": "57f1",
+  "documentationUrl": "See README.md",
+  "changelogUrl": "See CHANGELOG.md",
+  "licensesUrl": "See LICENSE.md",
+  "dependencies": {
+    "com.unity.render-pipelines.high-definition": "14.0.11"
+  },
+  "keywords": [
+    "CRT",
+    "Retro",
+    "Shader"
+  ],
+  "author": {
+    "name": "Richard Foligno",
+    "email": "hello@foligno.codes",
+    "url": "https://www.foligno.codes"
+  }
+}
