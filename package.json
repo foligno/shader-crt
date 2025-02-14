@@ -1,6 +1,6 @@
 {
   "name": "com.foligno.shaders.crt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "CRT Shader",
   "description": "Fullscreen shader that attempts to emulate a CRT screen effect.",
   "unity": "2022.3",
@@ -18,7 +18,7 @@
   ],
   "author": {
     "name": "Richard Foligno",
-    "email": "hello@foligno.codes",
+    "email": "github@foligno.codes",
     "url": "https://www.foligno.codes"
   }
 }
